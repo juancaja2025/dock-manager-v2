@@ -1,0 +1,15 @@
+{
+  "name": "dock-manager",
+  "version": "1.0.0",
+  "description": "Sistema de gestión de dársenas OCASA",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
